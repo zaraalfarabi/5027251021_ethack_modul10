@@ -8,9 +8,8 @@
 
 ## Daftar Isi
 
-1. [Analisis Blue Team — Bab 9](#analisis-blue-team--bab-9)
-2. [Observasi Peringatan Word — Bab 9](#observasi-peringatan-word--bab-9)
-
+1. [Analisis Exploit — Bab 10](#analisis-exploit--bab-10)
+2. [Analisis Rantai CVE → Advisory → Exploit — Bab 10](#analisis-rantai-cve---advisory---exploit--bab-10)
 ---
 # Analisis Exploit — Bab 10
 
